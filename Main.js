@@ -48,6 +48,6 @@ for (let i = 0; i < 10000; i++) {
 console.timeEnd("registe");
 
 // 测试是否有冲突
-console.log(nameList);
+// console.log(nameList);
 isRepeat();
 
